@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Servo_motor", "Servo_motor.cppproj", "{8A8D4D06-FAB3-43DB-8D87-377ADF8FD671}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Blink", "..\My Examples\Blink\Blink.cppproj", "{726BE62D-259F-4B33-A97A-C1A2E80C8A3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A8D4D06-FAB3-43DB-8D87-377ADF8FD671}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8A8D4D06-FAB3-43DB-8D87-377ADF8FD671}.Debug|AVR.Build.0 = Debug|AVR
+		{8A8D4D06-FAB3-43DB-8D87-377ADF8FD671}.Release|AVR.ActiveCfg = Release|AVR
+		{8A8D4D06-FAB3-43DB-8D87-377ADF8FD671}.Release|AVR.Build.0 = Release|AVR
+		{726BE62D-259F-4B33-A97A-C1A2E80C8A3D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{726BE62D-259F-4B33-A97A-C1A2E80C8A3D}.Debug|AVR.Build.0 = Debug|AVR
+		{726BE62D-259F-4B33-A97A-C1A2E80C8A3D}.Release|AVR.ActiveCfg = Release|AVR
+		{726BE62D-259F-4B33-A97A-C1A2E80C8A3D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
